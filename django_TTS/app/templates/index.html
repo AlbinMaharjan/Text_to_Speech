@@ -1,0 +1,109 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}home{% endblock %}
+{% block body %}
+
+    <div>
+        {% include 'login.html' %}
+    </div>
+    <style>
+        
+        .login-container {
+             
+        /* .body {
+            margin: 0;
+            font-family: 'Arial', sans-serif;
+            background-color: #121212;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        } */
+
+        .container {
+            text-align: center;
+            width: 98%;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            font-weight: bold;
+        }
+
+        .highlight {
+            color: #FEC529;
+        }
+
+        textarea {
+            width: 100%;
+            height: 220px;
+            background-color: #1e1e1e;
+            color: white;
+            border: none;
+            border-radius: 10px;
+            padding: 10px;
+            font-size: 1.2em;
+            margin-top: 20px;
+        }
+
+        textarea::placeholder {
+            color: #888;
+        }
+
+        .convert-button {
+            background-color: #FEC529;
+            color: #121212;
+            border: none;
+            border-radius: 8px;
+            padding: 10px 230px;
+            font-size: 1.2em;
+            font-weight: bold;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+
+        .convert-button:hover {
+            background-color: #e6b021;
+        }
+
+        .char-count {
+            text-align: right;
+            margin-top: 5px;
+            color: #888;
+        }
+
+        .get-in-touch {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background-color: #1e1e1e;
+            color: #FEC529;
+            border: 2px solid #FEC529;
+            border-radius: 20px;
+            padding: 10px 20px;
+            font-size: 1em;
+            cursor: pointer;
+        }
+
+        .get-in-touch:hover {
+            background-color: #FEC529;
+            color: #121212;
+        }
+    
+            /* Add your internal CSS styles here */
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var loginDiv = document.querySelector('div > div');
+            if (loginDiv) {
+                loginDiv.classList.add('login-container');
+            }
+        });
+    </script>
+{% endblock %}

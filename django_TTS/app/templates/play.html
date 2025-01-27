@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text-to-Speech</title>
+    {% load static %}
+</head>
+<body>
+
+    <!-- Button to trigger text-to-speech conversion -->
+    <button class="convert-button">Convert Text To Speech 🎤</button>
+
+    <!-- Audio output section -->
+    <div class="audio-output">
+        <audio controls id="audioPlayer">
+            <source src="{% static 'output.wav' %}" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+
+    <script>
+        document.querySelector('.convert-button').addEventListener('click', function() {
+            var audioPlayer = document.getElementById('audioPlayer');
+
+            // Set the source dynamically
+            audioPlayer.load();
+            audioPlayer.play().catch(function(error) {
+                console.error("Audio play failed:", error);
+            });
+        });
+    </script>
+
+</body>
+</html>

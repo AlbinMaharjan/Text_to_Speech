@@ -1,0 +1,80 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Text to Speech{% endblock %}
+
+{% block body %}
+<div class="container">
+    <h1>
+        Effortlessly Transform Your Text <br>
+        into Lifelike
+        <span class="highlight">Speech</span>.
+    </h1>
+    <form method="POST" id="text-to-speech-form">
+        {% csrf_token %}
+        <textarea name="text" id="textInput" placeholder="Enter Your Text Here..." maxlength="500" oninput="updateCharCount()"></textarea>
+        <div class="char-count" id="charCount">0/500</div>
+        <div class="button">
+            <button type="submit" class="convert-button">Convert Text To Speech 🎤</button>
+        </div>
+    </form>
+
+    <!-- Audio player container -->
+    <div id="audio-container" style="display: none;">
+        <div class="audio-output">
+            <audio controls id="audioPlayer">
+                <source id="audioSource" type="audio/wav">
+                Your browser does not support the audio element.
+            </audio>
+        </div>
+    </div>
+
+    <script>
+        document.querySelector('.convert-button').addEventListener('click', function (event) {
+            event.preventDefault(); // Prevent form submission
+
+            const form = document.getElementById('text-to-speech-form');
+            const formData = new FormData(form);
+
+            fetch('{% url "convert_text_to_speech" %}', {
+                method: 'POST',
+                body: formData,
+                headers: {
+                    'X-CSRFToken': formData.get('csrfmiddlewaretoken')
+                }
+            })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        // Update the audio source dynamically
+                        const audioSource = document.getElementById('audioSource');
+                        const audioPlayer = document.getElementById('audioPlayer');
+                        const audioContainer = document.getElementById('audio-container');
+
+                        // Append timestamp to avoid caching
+                        const audioFilePath = `${data.audio_file_path}?t=${new Date().getTime()}`;
+                        audioSource.src = audioFilePath;
+
+                        // Show the audio container and play the audio
+                        audioContainer.style.display = 'block';
+                        audioPlayer.load();
+                        audioPlayer.play().catch(error => {
+                            console.error("Audio playback failed:", error);
+                        });
+                    } else {
+                        alert(data.message || "Failed to generate audio.");
+                    }
+                })
+                .catch(error => {
+                    console.error("Error:", error);
+                });
+        });
+
+        // Update character count dynamically
+        function updateCharCount() {
+            const textLength = document.getElementById('textInput').value.length;
+            document.getElementById('charCount').innerText = `${textLength}/500`;
+        }
+    </script>
+</div>
+{% endblock %}

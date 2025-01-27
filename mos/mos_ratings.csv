@@ -1,0 +1,226 @@
+Participant,Audio File,Transcription,Rating
+Palistha,1.wav,"Hello, welcome to our text-to-speech demo!",5
+Palistha,2.wav,The quick brown fox jumps over the lazy dog.,5
+Palistha,3.wav,Artificial intelligence makes life easier.,5
+Palistha,4.wav,Django is a powerful web framework for developers.,5
+Palistha,5.wav,Can you hear this text converted into speech?,5
+Palistha,6.wav,"With text-to-speech technology, we can convert written words into lifelike audio.",5
+Palistha,7.wav,Speech synthesis allows computers to communicate in a way that feels more natural.,5
+Palistha,8.wav,This is a demonstration of how you can use Python to generate human-like speech.,5
+Palistha,9.wav,Text-to-speech systems are widely used in navigation devices and accessibility tools.,5
+Palistha,10.wav,The future of technology lies in making information accessible to everyone.,5
+Palistha,11.wav,"Text-to-speech technology is transforming the way we interact with devices. By converting text into natural-sounding audio, it bridges the gap between written content and auditory experiences. This innovation has applications in education, entertainment, and accessibility, making it easier for people with disabilities to engage with the digital world.",5
+Palistha,12.wav,"In recent years, artificial intelligence has significantly improved the quality of text-to-speech systems. These advancements enable machines to produce speech that closely mimics human intonation, rhythm, and emotion. As a result, TTS technology is now being integrated into various fields, including virtual assistants, audiobooks, and customer service.",2
+Palistha,13.wav,"Nature is a boundless source of inspiration and wonder. From the towering peaks of majestic mountains to the tranquil waves of the ocean, every element reflects an extraordinary diversity. The chirping of birds at dawn, the rustling of leaves in the wind, and the gentle murmur of a flowing river create a harmonious symphony that soothes the soul. Even in the smallest details, like the intricate patterns of a snowflake or the vibrant hues of a blooming flower, nature reminds us of the beauty that surrounds us.",4
+Palistha,14.wav,"Technology has transformed every aspect of our lives. It has made communication instant, learning accessible, and work more efficient. From smartphones to self-driving cars, innovations continue to shape our future. However, these advancements come with challenges like data privacy and over-dependence. As we embrace new technologies, it’s vital to use them responsibly to create a better, more inclusive world.",2
+Palistha,15.wav,"Perseverance is key to overcoming life’s challenges. It helps us push through difficulties and turn failures into learning experiences. Many great inventors, athletes, and leaders have succeeded because they refused to give up, even when faced with obstacles. Perseverance teaches us that success is not just about talent but also about dedication and the willingness to try again.",4
+samyak,1.wav,"Hello, welcome to our text-to-speech demo!",5
+samyak,2.wav,The quick brown fox jumps over the lazy dog.,5
+samyak,3.wav,Artificial intelligence makes life easier.,5
+samyak,4.wav,Django is a powerful web framework for developers.,5
+samyak,5.wav,Can you hear this text converted into speech?,5
+samyak,6.wav,"With text-to-speech technology, we can convert written words into lifelike audio.",5
+samyak,7.wav,Speech synthesis allows computers to communicate in a way that feels more natural.,5
+samyak,8.wav,This is a demonstration of how you can use Python to generate human-like speech.,5
+samyak,9.wav,Text-to-speech systems are widely used in navigation devices and accessibility tools.,5
+samyak,10.wav,The future of technology lies in making information accessible to everyone.,5
+samyak,11.wav,"Text-to-speech technology is transforming the way we interact with devices. By converting text into natural-sounding audio, it bridges the gap between written content and auditory experiences. This innovation has applications in education, entertainment, and accessibility, making it easier for people with disabilities to engage with the digital world.",4
+samyak,12.wav,"In recent years, artificial intelligence has significantly improved the quality of text-to-speech systems. These advancements enable machines to produce speech that closely mimics human intonation, rhythm, and emotion. As a result, TTS technology is now being integrated into various fields, including virtual assistants, audiobooks, and customer service.",3
+samyak,13.wav,"Nature is a boundless source of inspiration and wonder. From the towering peaks of majestic mountains to the tranquil waves of the ocean, every element reflects an extraordinary diversity. The chirping of birds at dawn, the rustling of leaves in the wind, and the gentle murmur of a flowing river create a harmonious symphony that soothes the soul. Even in the smallest details, like the intricate patterns of a snowflake or the vibrant hues of a blooming flower, nature reminds us of the beauty that surrounds us.",4
+samyak,14.wav,"Technology has transformed every aspect of our lives. It has made communication instant, learning accessible, and work more efficient. From smartphones to self-driving cars, innovations continue to shape our future. However, these advancements come with challenges like data privacy and over-dependence. As we embrace new technologies, it’s vital to use them responsibly to create a better, more inclusive world.",2
+samyak,15.wav,"Perseverance is key to overcoming life’s challenges. It helps us push through difficulties and turn failures into learning experiences. Many great inventors, athletes, and leaders have succeeded because they refused to give up, even when faced with obstacles. Perseverance teaches us that success is not just about talent but also about dedication and the willingness to try again.",2
+samjhana,1.wav,"Hello, welcome to our text-to-speech demo!",5
+samjhana,2.wav,The quick brown fox jumps over the lazy dog.,5
+samjhana,3.wav,Artificial intelligence makes life easier.,5
+samjhana,4.wav,Django is a powerful web framework for developers.,5
+samjhana,5.wav,Can you hear this text converted into speech?,5
+samjhana,6.wav,"With text-to-speech technology, we can convert written words into lifelike audio.",5
+samjhana,7.wav,Speech synthesis allows computers to communicate in a way that feels more natural.,5
+samjhana,8.wav,This is a demonstration of how you can use Python to generate human-like speech.,5
+samjhana,9.wav,Text-to-speech systems are widely used in navigation devices and accessibility tools.,5
+samjhana,10.wav,The future of technology lies in making information accessible to everyone.,5
+samjhana,11.wav,"Text-to-speech technology is transforming the way we interact with devices. By converting text into natural-sounding audio, it bridges the gap between written content and auditory experiences. This innovation has applications in education, entertainment, and accessibility, making it easier for people with disabilities to engage with the digital world.",5
+samjhana,12.wav,"In recent years, artificial intelligence has significantly improved the quality of text-to-speech systems. These advancements enable machines to produce speech that closely mimics human intonation, rhythm, and emotion. As a result, TTS technology is now being integrated into various fields, including virtual assistants, audiobooks, and customer service.",2
+samjhana,13.wav,"Nature is a boundless source of inspiration and wonder. From the towering peaks of majestic mountains to the tranquil waves of the ocean, every element reflects an extraordinary diversity. The chirping of birds at dawn, the rustling of leaves in the wind, and the gentle murmur of a flowing river create a harmonious symphony that soothes the soul. Even in the smallest details, like the intricate patterns of a snowflake or the vibrant hues of a blooming flower, nature reminds us of the beauty that surrounds us.",3
+samjhana,14.wav,"Technology has transformed every aspect of our lives. It has made communication instant, learning accessible, and work more efficient. From smartphones to self-driving cars, innovations continue to shape our future. However, these advancements come with challenges like data privacy and over-dependence. As we embrace new technologies, it’s vital to use them responsibly to create a better, more inclusive world.",2
+samjhana,15.wav,"Perseverance is key to overcoming life’s challenges. It helps us push through difficulties and turn failures into learning experiences. Many great inventors, athletes, and leaders have succeeded because they refused to give up, even when faced with obstacles. Perseverance teaches us that success is not just about talent but also about dedication and the willingness to try again.",4
+Sambriddhi,1.wav,"Hello, welcome to our text-to-speech demo!",5
+Sambriddhi,2.wav,The quick brown fox jumps over the lazy dog.,5
+Sambriddhi,3.wav,Artificial intelligence makes life easier.,5
+Sambriddhi,4.wav,Django is a powerful web framework for developers.,5
+Sambriddhi,5.wav,Can you hear this text converted into speech?,5
+Sambriddhi,6.wav,"With text-to-speech technology, we can convert written words into lifelike audio.",5
+Sambriddhi,7.wav,Speech synthesis allows computers to communicate in a way that feels more natural.,5
+Sambriddhi,8.wav,This is a demonstration of how you can use Python to generate human-like speech.,5
+Sambriddhi,9.wav,Text-to-speech systems are widely used in navigation devices and accessibility tools.,5
+Sambriddhi,10.wav,The future of technology lies in making information accessible to everyone.,5
+Sambriddhi,11.wav,"Text-to-speech technology is transforming the way we interact with devices. By converting text into natural-sounding audio, it bridges the gap between written content and auditory experiences. This innovation has applications in education, entertainment, and accessibility, making it easier for people with disabilities to engage with the digital world.",5
+Sambriddhi,12.wav,"In recent years, artificial intelligence has significantly improved the quality of text-to-speech systems. These advancements enable machines to produce speech that closely mimics human intonation, rhythm, and emotion. As a result, TTS technology is now being integrated into various fields, including virtual assistants, audiobooks, and customer service.",3
+Sambriddhi,13.wav,"Nature is a boundless source of inspiration and wonder. From the towering peaks of majestic mountains to the tranquil waves of the ocean, every element reflects an extraordinary diversity. The chirping of birds at dawn, the rustling of leaves in the wind, and the gentle murmur of a flowing river create a harmonious symphony that soothes the soul. Even in the smallest details, like the intricate patterns of a snowflake or the vibrant hues of a blooming flower, nature reminds us of the beauty that surrounds us.",4
+Sambriddhi,14.wav,"Technology has transformed every aspect of our lives. It has made communication instant, learning accessible, and work more efficient. From smartphones to self-driving cars, innovations continue to shape our future. However, these advancements come with challenges like data privacy and over-dependence. As we embrace new technologies, it’s vital to use them responsibly to create a better, more inclusive world.",2
+Sambriddhi,15.wav,"Perseverance is key to overcoming life’s challenges. It helps us push through difficulties and turn failures into learning experiences. Many great inventors, athletes, and leaders have succeeded because they refused to give up, even when faced with obstacles. Perseverance teaches us that success is not just about talent but also about dedication and the willingness to try again.",4
+sanchita,1.wav,"Hello, welcome to our text-to-speech demo!",5
+sanchita,2.wav,The quick brown fox jumps over the lazy dog.,5
+sanchita,3.wav,Artificial intelligence makes life easier.,5
+sanchita,4.wav,Django is a powerful web framework for developers.,5
+sanchita,5.wav,Can you hear this text converted into speech?,5
+sanchita,6.wav,"With text-to-speech technology, we can convert written words into lifelike audio.",5
+sanchita,7.wav,Speech synthesis allows computers to communicate in a way that feels more natural.,5
+sanchita,8.wav,This is a demonstration of how you can use Python to generate human-like speech.,5
+sanchita,9.wav,Text-to-speech systems are widely used in navigation devices and accessibility tools.,5
+sanchita,10.wav,The future of technology lies in making information accessible to everyone.,5
+sanchita,11.wav,"Text-to-speech technology is transforming the way we interact with devices. By converting text into natural-sounding audio, it bridges the gap between written content and auditory experiences. This innovation has applications in education, entertainment, and accessibility, making it easier for people with disabilities to engage with the digital world.",5
+sanchita,12.wav,"In recent years, artificial intelligence has significantly improved the quality of text-to-speech systems. These advancements enable machines to produce speech that closely mimics human intonation, rhythm, and emotion. As a result, TTS technology is now being integrated into various fields, including virtual assistants, audiobooks, and customer service.",3
+sanchita,13.wav,"Nature is a boundless source of inspiration and wonder. From the towering peaks of majestic mountains to the tranquil waves of the ocean, every element reflects an extraordinary diversity. The chirping of birds at dawn, the rustling of leaves in the wind, and the gentle murmur of a flowing river create a harmonious symphony that soothes the soul. Even in the smallest details, like the intricate patterns of a snowflake or the vibrant hues of a blooming flower, nature reminds us of the beauty that surrounds us.",3
+sanchita,14.wav,"Technology has transformed every aspect of our lives. It has made communication instant, learning accessible, and work more efficient. From smartphones to self-driving cars, innovations continue to shape our future. However, these advancements come with challenges like data privacy and over-dependence. As we embrace new technologies, it’s vital to use them responsibly to create a better, more inclusive world.",2
+sanchita,15.wav,"Perseverance is key to overcoming life’s challenges. It helps us push through difficulties and turn failures into learning experiences. Many great inventors, athletes, and leaders have succeeded because they refused to give up, even when faced with obstacles. Perseverance teaches us that success is not just about talent but also about dedication and the willingness to try again.",4
+aprish,1.wav,"Hello, welcome to our text-to-speech demo!",5
+aprish,2.wav,The quick brown fox jumps over the lazy dog.,5
+aprish,3.wav,Artificial intelligence makes life easier.,5
+aprish,4.wav,Django is a powerful web framework for developers.,5
+aprish,5.wav,Can you hear this text converted into speech?,5
+aprish,6.wav,"With text-to-speech technology, we can convert written words into lifelike audio.",5
+aprish,7.wav,Speech synthesis allows computers to communicate in a way that feels more natural.,5
+aprish,8.wav,This is a demonstration of how you can use Python to generate human-like speech.,5
+aprish,9.wav,Text-to-speech systems are widely used in navigation devices and accessibility tools.,5
+aprish,10.wav,The future of technology lies in making information accessible to everyone.,5
+aprish,11.wav,"Text-to-speech technology is transforming the way we interact with devices. By converting text into natural-sounding audio, it bridges the gap between written content and auditory experiences. This innovation has applications in education, entertainment, and accessibility, making it easier for people with disabilities to engage with the digital world.",5
+aprish,12.wav,"In recent years, artificial intelligence has significantly improved the quality of text-to-speech systems. These advancements enable machines to produce speech that closely mimics human intonation, rhythm, and emotion. As a result, TTS technology is now being integrated into various fields, including virtual assistants, audiobooks, and customer service.",3
+aprish,13.wav,"Nature is a boundless source of inspiration and wonder. From the towering peaks of majestic mountains to the tranquil waves of the ocean, every element reflects an extraordinary diversity. The chirping of birds at dawn, the rustling of leaves in the wind, and the gentle murmur of a flowing river create a harmonious symphony that soothes the soul. Even in the smallest details, like the intricate patterns of a snowflake or the vibrant hues of a blooming flower, nature reminds us of the beauty that surrounds us.",3
+aprish,14.wav,"Technology has transformed every aspect of our lives. It has made communication instant, learning accessible, and work more efficient. From smartphones to self-driving cars, innovations continue to shape our future. However, these advancements come with challenges like data privacy and over-dependence. As we embrace new technologies, it’s vital to use them responsibly to create a better, more inclusive world.",2
+aprish,15.wav,"Perseverance is key to overcoming life’s challenges. It helps us push through difficulties and turn failures into learning experiences. Many great inventors, athletes, and leaders have succeeded because they refused to give up, even when faced with obstacles. Perseverance teaches us that success is not just about talent but also about dedication and the willingness to try again.",3
+luniva,1.wav,"Hello, welcome to our text-to-speech demo!",5
+luniva,2.wav,The quick brown fox jumps over the lazy dog.,5
+luniva,3.wav,Artificial intelligence makes life easier.,5
+luniva,4.wav,Django is a powerful web framework for developers.,5
+luniva,5.wav,Can you hear this text converted into speech?,5
+luniva,6.wav,"With text-to-speech technology, we can convert written words into lifelike audio.",5
+luniva,7.wav,Speech synthesis allows computers to communicate in a way that feels more natural.,5
+luniva,8.wav,This is a demonstration of how you can use Python to generate human-like speech.,5
+luniva,9.wav,Text-to-speech systems are widely used in navigation devices and accessibility tools.,5
+luniva,10.wav,The future of technology lies in making information accessible to everyone.,5
+luniva,11.wav,"Text-to-speech technology is transforming the way we interact with devices. By converting text into natural-sounding audio, it bridges the gap between written content and auditory experiences. This innovation has applications in education, entertainment, and accessibility, making it easier for people with disabilities to engage with the digital world.",5
+luniva,12.wav,"In recent years, artificial intelligence has significantly improved the quality of text-to-speech systems. These advancements enable machines to produce speech that closely mimics human intonation, rhythm, and emotion. As a result, TTS technology is now being integrated into various fields, including virtual assistants, audiobooks, and customer service.",3
+luniva,13.wav,"Nature is a boundless source of inspiration and wonder. From the towering peaks of majestic mountains to the tranquil waves of the ocean, every element reflects an extraordinary diversity. The chirping of birds at dawn, the rustling of leaves in the wind, and the gentle murmur of a flowing river create a harmonious symphony that soothes the soul. Even in the smallest details, like the intricate patterns of a snowflake or the vibrant hues of a blooming flower, nature reminds us of the beauty that surrounds us.",3
+luniva,14.wav,"Technology has transformed every aspect of our lives. It has made communication instant, learning accessible, and work more efficient. From smartphones to self-driving cars, innovations continue to shape our future. However, these advancements come with challenges like data privacy and over-dependence. As we embrace new technologies, it’s vital to use them responsibly to create a better, more inclusive world.",2
+luniva,15.wav,"Perseverance is key to overcoming life’s challenges. It helps us push through difficulties and turn failures into learning experiences. Many great inventors, athletes, and leaders have succeeded because they refused to give up, even when faced with obstacles. Perseverance teaches us that success is not just about talent but also about dedication and the willingness to try again.",3
+Albin,1.wav,"Hello, welcome to our text-to-speech demo!",5
+Albin,2.wav,The quick brown fox jumps over the lazy dog.,5
+Albin,3.wav,Artificial intelligence makes life easier.,5
+Albin,4.wav,Django is a powerful web framework for developers.,5
+Albin,5.wav,Can you hear this text converted into speech?,5
+Albin,6.wav,"With text-to-speech technology, we can convert written words into lifelike audio.",5
+Albin,7.wav,Speech synthesis allows computers to communicate in a way that feels more natural.,5
+Albin,8.wav,This is a demonstration of how you can use Python to generate human-like speech.,5
+Albin,9.wav,Text-to-speech systems are widely used in navigation devices and accessibility tools.,5
+Albin,10.wav,The future of technology lies in making information accessible to everyone.,5
+Albin,11.wav,"Text-to-speech technology is transforming the way we interact with devices. By converting text into natural-sounding audio, it bridges the gap between written content and auditory experiences. This innovation has applications in education, entertainment, and accessibility, making it easier for people with disabilities to engage with the digital world.",3
+Albin,12.wav,"In recent years, artificial intelligence has significantly improved the quality of text-to-speech systems. These advancements enable machines to produce speech that closely mimics human intonation, rhythm, and emotion. As a result, TTS technology is now being integrated into various fields, including virtual assistants, audiobooks, and customer service.",3
+Albin,13.wav,"Nature is a boundless source of inspiration and wonder. From the towering peaks of majestic mountains to the tranquil waves of the ocean, every element reflects an extraordinary diversity. The chirping of birds at dawn, the rustling of leaves in the wind, and the gentle murmur of a flowing river create a harmonious symphony that soothes the soul. Even in the smallest details, like the intricate patterns of a snowflake or the vibrant hues of a blooming flower, nature reminds us of the beauty that surrounds us.",4
+Albin,14.wav,"Technology has transformed every aspect of our lives. It has made communication instant, learning accessible, and work more efficient. From smartphones to self-driving cars, innovations continue to shape our future. However, these advancements come with challenges like data privacy and over-dependence. As we embrace new technologies, it’s vital to use them responsibly to create a better, more inclusive world.",3
+Albin,15.wav,"Perseverance is key to overcoming life’s challenges. It helps us push through difficulties and turn failures into learning experiences. Many great inventors, athletes, and leaders have succeeded because they refused to give up, even when faced with obstacles. Perseverance teaches us that success is not just about talent but also about dedication and the willingness to try again.",4
+Ritika,1.wav,"Hello, welcome to our text-to-speech demo!",5
+Ritika,2.wav,The quick brown fox jumps over the lazy dog.,5
+Ritika,3.wav,Artificial intelligence makes life easier.,5
+Ritika,4.wav,Django is a powerful web framework for developers.,5
+Ritika,5.wav,Can you hear this text converted into speech?,5
+Ritika,6.wav,"With text-to-speech technology, we can convert written words into lifelike audio.",5
+Ritika,7.wav,Speech synthesis allows computers to communicate in a way that feels more natural.,5
+Ritika,8.wav,This is a demonstration of how you can use Python to generate human-like speech.,5
+Ritika,9.wav,Text-to-speech systems are widely used in navigation devices and accessibility tools.,5
+Ritika,10.wav,The future of technology lies in making information accessible to everyone.,5
+Ritika,11.wav,"Text-to-speech technology is transforming the way we interact with devices. By converting text into natural-sounding audio, it bridges the gap between written content and auditory experiences. This innovation has applications in education, entertainment, and accessibility, making it easier for people with disabilities to engage with the digital world.",5
+Ritika,12.wav,"In recent years, artificial intelligence has significantly improved the quality of text-to-speech systems. These advancements enable machines to produce speech that closely mimics human intonation, rhythm, and emotion. As a result, TTS technology is now being integrated into various fields, including virtual assistants, audiobooks, and customer service.",3
+Ritika,13.wav,"Nature is a boundless source of inspiration and wonder. From the towering peaks of majestic mountains to the tranquil waves of the ocean, every element reflects an extraordinary diversity. The chirping of birds at dawn, the rustling of leaves in the wind, and the gentle murmur of a flowing river create a harmonious symphony that soothes the soul. Even in the smallest details, like the intricate patterns of a snowflake or the vibrant hues of a blooming flower, nature reminds us of the beauty that surrounds us.",3
+Ritika,14.wav,"Technology has transformed every aspect of our lives. It has made communication instant, learning accessible, and work more efficient. From smartphones to self-driving cars, innovations continue to shape our future. However, these advancements come with challenges like data privacy and over-dependence. As we embrace new technologies, it’s vital to use them responsibly to create a better, more inclusive world.",3
+Ritika,15.wav,"Perseverance is key to overcoming life’s challenges. It helps us push through difficulties and turn failures into learning experiences. Many great inventors, athletes, and leaders have succeeded because they refused to give up, even when faced with obstacles. Perseverance teaches us that success is not just about talent but also about dedication and the willingness to try again.",3
+Nirayu,1.wav,"Hello, welcome to our text-to-speech demo!",5
+Nirayu,2.wav,The quick brown fox jumps over the lazy dog.,5
+Nirayu,3.wav,Artificial intelligence makes life easier.,5
+Nirayu,4.wav,Django is a powerful web framework for developers.,5
+Nirayu,5.wav,Can you hear this text converted into speech?,5
+Nirayu,6.wav,"With text-to-speech technology, we can convert written words into lifelike audio.",5
+Nirayu,7.wav,Speech synthesis allows computers to communicate in a way that feels more natural.,5
+Nirayu,8.wav,This is a demonstration of how you can use Python to generate human-like speech.,5
+Nirayu,9.wav,Text-to-speech systems are widely used in navigation devices and accessibility tools.,5
+Nirayu,10.wav,The future of technology lies in making information accessible to everyone.,5
+Nirayu,11.wav,"Text-to-speech technology is transforming the way we interact with devices. By converting text into natural-sounding audio, it bridges the gap between written content and auditory experiences. This innovation has applications in education, entertainment, and accessibility, making it easier for people with disabilities to engage with the digital world.",5
+Nirayu,12.wav,"In recent years, artificial intelligence has significantly improved the quality of text-to-speech systems. These advancements enable machines to produce speech that closely mimics human intonation, rhythm, and emotion. As a result, TTS technology is now being integrated into various fields, including virtual assistants, audiobooks, and customer service.",3
+Nirayu,13.wav,"Nature is a boundless source of inspiration and wonder. From the towering peaks of majestic mountains to the tranquil waves of the ocean, every element reflects an extraordinary diversity. The chirping of birds at dawn, the rustling of leaves in the wind, and the gentle murmur of a flowing river create a harmonious symphony that soothes the soul. Even in the smallest details, like the intricate patterns of a snowflake or the vibrant hues of a blooming flower, nature reminds us of the beauty that surrounds us.",4
+Nirayu,14.wav,"Technology has transformed every aspect of our lives. It has made communication instant, learning accessible, and work more efficient. From smartphones to self-driving cars, innovations continue to shape our future. However, these advancements come with challenges like data privacy and over-dependence. As we embrace new technologies, it’s vital to use them responsibly to create a better, more inclusive world.",3
+Nirayu,15.wav,"Perseverance is key to overcoming life’s challenges. It helps us push through difficulties and turn failures into learning experiences. Many great inventors, athletes, and leaders have succeeded because they refused to give up, even when faced with obstacles. Perseverance teaches us that success is not just about talent but also about dedication and the willingness to try again.",4
+Diwash,1.wav,"Hello, welcome to our text-to-speech demo!",5
+Diwash,2.wav,The quick brown fox jumps over the lazy dog.,5
+Diwash,3.wav,Artificial intelligence makes life easier.,5
+Diwash,4.wav,Django is a powerful web framework for developers.,5
+Diwash,5.wav,Can you hear this text converted into speech?,5
+Diwash,6.wav,"With text-to-speech technology, we can convert written words into lifelike audio.",5
+Diwash,7.wav,Speech synthesis allows computers to communicate in a way that feels more natural.,5
+Diwash,8.wav,This is a demonstration of how you can use Python to generate human-like speech.,5
+Diwash,9.wav,Text-to-speech systems are widely used in navigation devices and accessibility tools.,5
+Diwash,10.wav,The future of technology lies in making information accessible to everyone.,5
+Diwash,11.wav,"Text-to-speech technology is transforming the way we interact with devices. By converting text into natural-sounding audio, it bridges the gap between written content and auditory experiences. This innovation has applications in education, entertainment, and accessibility, making it easier for people with disabilities to engage with the digital world.",5
+Diwash,12.wav,"In recent years, artificial intelligence has significantly improved the quality of text-to-speech systems. These advancements enable machines to produce speech that closely mimics human intonation, rhythm, and emotion. As a result, TTS technology is now being integrated into various fields, including virtual assistants, audiobooks, and customer service.",3
+Diwash,13.wav,"Nature is a boundless source of inspiration and wonder. From the towering peaks of majestic mountains to the tranquil waves of the ocean, every element reflects an extraordinary diversity. The chirping of birds at dawn, the rustling of leaves in the wind, and the gentle murmur of a flowing river create a harmonious symphony that soothes the soul. Even in the smallest details, like the intricate patterns of a snowflake or the vibrant hues of a blooming flower, nature reminds us of the beauty that surrounds us.",4
+Diwash,14.wav,"Technology has transformed every aspect of our lives. It has made communication instant, learning accessible, and work more efficient. From smartphones to self-driving cars, innovations continue to shape our future. However, these advancements come with challenges like data privacy and over-dependence. As we embrace new technologies, it’s vital to use them responsibly to create a better, more inclusive world.",2
+Diwash,15.wav,"Perseverance is key to overcoming life’s challenges. It helps us push through difficulties and turn failures into learning experiences. Many great inventors, athletes, and leaders have succeeded because they refused to give up, even when faced with obstacles. Perseverance teaches us that success is not just about talent but also about dedication and the willingness to try again.",4
+Pesal,1.wav,"Hello, welcome to our text-to-speech demo!",5
+Pesal,2.wav,The quick brown fox jumps over the lazy dog.,5
+Pesal,3.wav,Artificial intelligence makes life easier.,5
+Pesal,4.wav,Django is a powerful web framework for developers.,5
+Pesal,5.wav,Can you hear this text converted into speech?,5
+Pesal,6.wav,"With text-to-speech technology, we can convert written words into lifelike audio.",5
+Pesal,7.wav,Speech synthesis allows computers to communicate in a way that feels more natural.,5
+Pesal,8.wav,This is a demonstration of how you can use Python to generate human-like speech.,5
+Pesal,9.wav,Text-to-speech systems are widely used in navigation devices and accessibility tools.,5
+Pesal,10.wav,The future of technology lies in making information accessible to everyone.,5
+Pesal,11.wav,"Text-to-speech technology is transforming the way we interact with devices. By converting text into natural-sounding audio, it bridges the gap between written content and auditory experiences. This innovation has applications in education, entertainment, and accessibility, making it easier for people with disabilities to engage with the digital world.",5
+Pesal,12.wav,"In recent years, artificial intelligence has significantly improved the quality of text-to-speech systems. These advancements enable machines to produce speech that closely mimics human intonation, rhythm, and emotion. As a result, TTS technology is now being integrated into various fields, including virtual assistants, audiobooks, and customer service.",3
+Pesal,13.wav,"Nature is a boundless source of inspiration and wonder. From the towering peaks of majestic mountains to the tranquil waves of the ocean, every element reflects an extraordinary diversity. The chirping of birds at dawn, the rustling of leaves in the wind, and the gentle murmur of a flowing river create a harmonious symphony that soothes the soul. Even in the smallest details, like the intricate patterns of a snowflake or the vibrant hues of a blooming flower, nature reminds us of the beauty that surrounds us.",3
+Pesal,14.wav,"Technology has transformed every aspect of our lives. It has made communication instant, learning accessible, and work more efficient. From smartphones to self-driving cars, innovations continue to shape our future. However, these advancements come with challenges like data privacy and over-dependence. As we embrace new technologies, it’s vital to use them responsibly to create a better, more inclusive world.",2
+Pesal,15.wav,"Perseverance is key to overcoming life’s challenges. It helps us push through difficulties and turn failures into learning experiences. Many great inventors, athletes, and leaders have succeeded because they refused to give up, even when faced with obstacles. Perseverance teaches us that success is not just about talent but also about dedication and the willingness to try again.",3
+Ritisha,1.wav,"Hello, welcome to our text-to-speech demo!",5
+Ritisha,2.wav,The quick brown fox jumps over the lazy dog.,5
+Ritisha,3.wav,Artificial intelligence makes life easier.,5
+Ritisha,4.wav,Django is a powerful web framework for developers.,5
+Ritisha,5.wav,Can you hear this text converted into speech?,5
+Ritisha,6.wav,"With text-to-speech technology, we can convert written words into lifelike audio.",5
+Ritisha,7.wav,Speech synthesis allows computers to communicate in a way that feels more natural.,5
+Ritisha,8.wav,This is a demonstration of how you can use Python to generate human-like speech.,5
+Ritisha,9.wav,Text-to-speech systems are widely used in navigation devices and accessibility tools.,5
+Ritisha,10.wav,The future of technology lies in making information accessible to everyone.,5
+Ritisha,11.wav,"Text-to-speech technology is transforming the way we interact with devices. By converting text into natural-sounding audio, it bridges the gap between written content and auditory experiences. This innovation has applications in education, entertainment, and accessibility, making it easier for people with disabilities to engage with the digital world.",5
+Ritisha,12.wav,"In recent years, artificial intelligence has significantly improved the quality of text-to-speech systems. These advancements enable machines to produce speech that closely mimics human intonation, rhythm, and emotion. As a result, TTS technology is now being integrated into various fields, including virtual assistants, audiobooks, and customer service.",3
+Ritisha,13.wav,"Nature is a boundless source of inspiration and wonder. From the towering peaks of majestic mountains to the tranquil waves of the ocean, every element reflects an extraordinary diversity. The chirping of birds at dawn, the rustling of leaves in the wind, and the gentle murmur of a flowing river create a harmonious symphony that soothes the soul. Even in the smallest details, like the intricate patterns of a snowflake or the vibrant hues of a blooming flower, nature reminds us of the beauty that surrounds us.",4
+Ritisha,14.wav,"Technology has transformed every aspect of our lives. It has made communication instant, learning accessible, and work more efficient. From smartphones to self-driving cars, innovations continue to shape our future. However, these advancements come with challenges like data privacy and over-dependence. As we embrace new technologies, it’s vital to use them responsibly to create a better, more inclusive world.",4
+Ritisha,15.wav,"Perseverance is key to overcoming life’s challenges. It helps us push through difficulties and turn failures into learning experiences. Many great inventors, athletes, and leaders have succeeded because they refused to give up, even when faced with obstacles. Perseverance teaches us that success is not just about talent but also about dedication and the willingness to try again.",4
+Sonish,1.wav,"Hello, welcome to our text-to-speech demo!",5
+Sonish,2.wav,The quick brown fox jumps over the lazy dog.,5
+Sonish,3.wav,Artificial intelligence makes life easier.,5
+Sonish,4.wav,Django is a powerful web framework for developers.,5
+Sonish,5.wav,Can you hear this text converted into speech?,5
+Sonish,6.wav,"With text-to-speech technology, we can convert written words into lifelike audio.",5
+Sonish,7.wav,Speech synthesis allows computers to communicate in a way that feels more natural.,5
+Sonish,8.wav,This is a demonstration of how you can use Python to generate human-like speech.,5
+Sonish,9.wav,Text-to-speech systems are widely used in navigation devices and accessibility tools.,5
+Sonish,10.wav,The future of technology lies in making information accessible to everyone.,5
+Sonish,11.wav,"Text-to-speech technology is transforming the way we interact with devices. By converting text into natural-sounding audio, it bridges the gap between written content and auditory experiences. This innovation has applications in education, entertainment, and accessibility, making it easier for people with disabilities to engage with the digital world.",5
+Sonish,12.wav,"In recent years, artificial intelligence has significantly improved the quality of text-to-speech systems. These advancements enable machines to produce speech that closely mimics human intonation, rhythm, and emotion. As a result, TTS technology is now being integrated into various fields, including virtual assistants, audiobooks, and customer service.",4
+Sonish,13.wav,"Nature is a boundless source of inspiration and wonder. From the towering peaks of majestic mountains to the tranquil waves of the ocean, every element reflects an extraordinary diversity. The chirping of birds at dawn, the rustling of leaves in the wind, and the gentle murmur of a flowing river create a harmonious symphony that soothes the soul. Even in the smallest details, like the intricate patterns of a snowflake or the vibrant hues of a blooming flower, nature reminds us of the beauty that surrounds us.",3
+Sonish,14.wav,"Technology has transformed every aspect of our lives. It has made communication instant, learning accessible, and work more efficient. From smartphones to self-driving cars, innovations continue to shape our future. However, these advancements come with challenges like data privacy and over-dependence. As we embrace new technologies, it’s vital to use them responsibly to create a better, more inclusive world.",3
+Sonish,15.wav,"Perseverance is key to overcoming life’s challenges. It helps us push through difficulties and turn failures into learning experiences. Many great inventors, athletes, and leaders have succeeded because they refused to give up, even when faced with obstacles. Perseverance teaches us that success is not just about talent but also about dedication and the willingness to try again.",3
+Akanta,1.wav,"Hello, welcome to our text-to-speech demo!",5
+Akanta,2.wav,The quick brown fox jumps over the lazy dog.,5
+Akanta,3.wav,Artificial intelligence makes life easier.,5
+Akanta,4.wav,Django is a powerful web framework for developers.,5
+Akanta,5.wav,Can you hear this text converted into speech?,5
+Akanta,6.wav,"With text-to-speech technology, we can convert written words into lifelike audio.",5
+Akanta,7.wav,Speech synthesis allows computers to communicate in a way that feels more natural.,5
+Akanta,8.wav,This is a demonstration of how you can use Python to generate human-like speech.,5
+Akanta,9.wav,Text-to-speech systems are widely used in navigation devices and accessibility tools.,5
+Akanta,10.wav,The future of technology lies in making information accessible to everyone.,5
+Akanta,11.wav,"Text-to-speech technology is transforming the way we interact with devices. By converting text into natural-sounding audio, it bridges the gap between written content and auditory experiences. This innovation has applications in education, entertainment, and accessibility, making it easier for people with disabilities to engage with the digital world.",5
+Akanta,12.wav,"In recent years, artificial intelligence has significantly improved the quality of text-to-speech systems. These advancements enable machines to produce speech that closely mimics human intonation, rhythm, and emotion. As a result, TTS technology is now being integrated into various fields, including virtual assistants, audiobooks, and customer service.",3
+Akanta,13.wav,"Nature is a boundless source of inspiration and wonder. From the towering peaks of majestic mountains to the tranquil waves of the ocean, every element reflects an extraordinary diversity. The chirping of birds at dawn, the rustling of leaves in the wind, and the gentle murmur of a flowing river create a harmonious symphony that soothes the soul. Even in the smallest details, like the intricate patterns of a snowflake or the vibrant hues of a blooming flower, nature reminds us of the beauty that surrounds us.",4
+Akanta,14.wav,"Technology has transformed every aspect of our lives. It has made communication instant, learning accessible, and work more efficient. From smartphones to self-driving cars, innovations continue to shape our future. However, these advancements come with challenges like data privacy and over-dependence. As we embrace new technologies, it’s vital to use them responsibly to create a better, more inclusive world.",3
+Akanta,15.wav,"Perseverance is key to overcoming life’s challenges. It helps us push through difficulties and turn failures into learning experiences. Many great inventors, athletes, and leaders have succeeded because they refused to give up, even when faced with obstacles. Perseverance teaches us that success is not just about talent but also about dedication and the willingness to try again.",3
